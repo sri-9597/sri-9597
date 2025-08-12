@@ -2,7 +2,7 @@
 **Software Engineer | Full-Stack Developer**
 <br/>
 
-## 👨‍💻 About Me
+## About Me
 
 - I’m currently building scalable full-stack web applications at a fast-growing startup using React.js, Next.js, MongoDB and Node.js. I am involved in all stages of SDLC from design to deployment. 
 - I've created multiple CI workflows using Github actions to automate build, test and deployment of the web applications.
@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Domain               | Technologies & Tools                                |
 | -------------------- | --------------------------------------------------- |
@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1. **Direct Booking Platform**
 - Led a team of 4 to build a next-gen direct booking website using Next.js + Node.js.
