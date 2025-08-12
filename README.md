@@ -49,10 +49,10 @@
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
-- ✉️ Email: [srichandraallala@gmail.com](mailto:srichandraallala@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/sreechandra-allala](https://linkedin.com/in/sreechandra-allala)  
+- Email: [srichandraallala@gmail.com](mailto:srichandraallala@gmail.com)  
+- LinkedIn: [linkedin.com/in/sreechandra-allala](https://linkedin.com/in/sreechandra-allala)  
 
 Thanks for stopping by and don't hesitate to connect with me! 
 ```
